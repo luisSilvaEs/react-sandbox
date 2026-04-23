@@ -31,3 +31,6 @@ venv/
 
 #Mac OS
 .DS_Store
+
+#Videos
+public/videos
