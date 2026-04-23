@@ -1,7 +1,6 @@
 # ABOUT
 
-Placeholder to create and test simple exercies in React - TS. No complex app, just test individual
-components not necessarily related among them.
+Placeholder to create and test simple exercises in React - TS. No complex app, just test individual components not necessarily related among them.
 
 Each implementation is inside _src/examples_
 
